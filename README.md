@@ -1,5 +1,5 @@
-Papers for Some Sort of Academic Thing "qual"
-=============================================
+Papers for CS @ UIUC's PL/FM/SE Qualifying Exams
+================================================
 
 Formal Methods
 --------------
